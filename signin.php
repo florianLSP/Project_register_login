@@ -11,7 +11,7 @@
     <title>login</title>
 </head>
 <body>
-    <h2>Page login</h2>
+    <h2>Page création de compte</h2>
 
     <label>Pseudo :</label>
     <input type="text" name="pseudo"><br>
@@ -19,7 +19,7 @@
     <label>Mot de passe :</label>
     <input type="password" name="mdp"><br>
 
-    <a href="signin.php">Pas encore de compte ?</a><br>
+    <a href="#">Pas encore de compte ?</a><br>
 
     <input type="submit" name="login" value="Se connecter">
 
