@@ -13,7 +13,4 @@ catch(mysqli_sql_exception){
     echo "Impossible de se connecter.<br>";
 }
 
-if($conn){
-    echo "Tu es connecté. <br>";
-}
 ?>
